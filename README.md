@@ -1,1 +1,0 @@
-# olasılık-matlab-odev1
